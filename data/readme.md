@@ -1,0 +1,1 @@
+the data folders are intentionally left empty, raw and processed data will be added by running the scripts.
